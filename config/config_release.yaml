@@ -1,0 +1,12 @@
+url: 'http://editor.release.codeghub.com'
+revEditor:      #对应hdy账号（电话号码：18725916126）
+    token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dpbl9pZCI6NjgxNiwidXNlcklkIjoiNzAwZjhjOWMtZDk5OS00MGM4LTgwZDMtYWFlMjhiODcyZWI4IiwidXNlck5hbWUiOiJoZHkiLCJwaG9uZSI6IjE4NzI1OTE2MTI2Iiwib3JnX2lkIjoiIiwicm9sZUlkIjoyLCJhdXRob3JpdHkiOiJhdWRpdC8qIiwiaXAiOiIxMTMuMjQ5LjQ3LjEwNiIsImRldmljZSI6InBjIiwiZGV2aWNlX2lkIjoiNmM4ZGQ1NmI2MzFkODU2MGEzNGEzODA5ZWUwYmU4MzYiLCJCdWZmZXJUaW1lIjo4NjQwMCwiaXNzIjoiQ29kZUdyYXZpdHlIdWIiLCJleHAiOjE3MjU1MDU0ODAsIm5iZiI6MTcxNjk1MTg4MH0.8voWy5NaU0A5kjJtwRq3S4EQfJ1eaWIFfXtaM1jUQug'
+    roles:
+        - 'normUser'
+        - 'revEditor'
+chiefEditor:   # 总编    账号：hdy2222222222
+    token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dpbl9pZCI6NjgzNSwidXNlcklkIjoiYTZkNTYzMGYtYjYwMy00MzMxLTlkMDQtZTAzMmJlNzRhZGRiIiwidXNlck5hbWUiOiJoZHkyMjIyMjIiLCJwaG9uZSI6IjEzNzUyODA5MDE0Iiwib3JnX2lkIjoiIiwicm9sZUlkIjoyNywiYXV0aG9yaXR5IjoiRUlDLyoiLCJpcCI6IjExMy4yNDguMjA4LjIxMyIsImRldmljZSI6InBjIiwiZGV2aWNlX2lkIjoiNmI2ODZiYmEzYmJhNzgwOWEzOTk4YzdiYTJhNTQwZTAiLCJCdWZmZXJUaW1lIjo4NjQwMCwiaXNzIjoiQ29kZUdyYXZpdHlIdWIiLCJleHAiOjE3MjU2ODkwMTgsIm5iZiI6MTcxNzEzNTQxOH0.tuYiOGNEO3KiJpd7k23jJ-2GdQwnDfvRwnrWwIg5oRw'
+    roles:
+        - 'normUser'
+        - 'revEditor'
+        - 'chiefEditor'
